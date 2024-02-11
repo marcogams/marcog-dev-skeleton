@@ -9,7 +9,7 @@
 </script>
 
 <div class="flex justify-center">
-	<div class="pt-3 max-w-screen-sm">
+	<div class="pt-3 max-w-96 sm:max-w-screen-sm">
 		<div class="card">
 			<p class="h3 p-4 text-center">Floorsort-Algorithm</p>
 			<div class="card variant-soft-secondary p-2">
