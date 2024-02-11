@@ -20,7 +20,7 @@
 				<p class="italic text-primary-400 text-center">Pseudocode below</p>
 			</div>
 		</div>
-		<div class="pt-3 pb-3"><svelte:component this={MyCanvas} /></div>
+		<div class="pt-3 pb-3 overflow-hidden"><svelte:component this={MyCanvas} /></div>
 
 		<div class="card variant-soft-secondary p-2">
 			<Accordion>
