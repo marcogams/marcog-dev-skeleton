@@ -2,7 +2,6 @@
 	import { onMount, tick } from 'svelte';
 	import { Stage, Layer, Rect } from 'svelte-konva';
 	import { Floorsort } from './floorsort.js';
-	import Konva from 'konva';
 
 	import { popup } from '@skeletonlabs/skeleton';
 
